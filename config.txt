@@ -1,5 +1,4 @@
-owner=
-596282272009945097
+owner=596282272009945097
 prefix=1
 game=hi
 stayinchannel=true
